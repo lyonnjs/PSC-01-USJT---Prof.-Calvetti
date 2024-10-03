@@ -1,4 +1,4 @@
-package PSC01PT1;
+package PSC01;
 
 import javax.swing.JOptionPane;
 
