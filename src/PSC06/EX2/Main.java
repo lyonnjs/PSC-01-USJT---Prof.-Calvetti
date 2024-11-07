@@ -29,7 +29,7 @@ public class Main {
         Desempregado desemp1 = new Desempregado();
         System.out.println(desemp1.dados());
 
-        Desempregado desemp2 = new Desempregado(1500.00, "matheus", "Tarvin", "342.675.324-76");
+        Desempregado desemp2 = new Desempregado(1500.00, "Matheus", "Tarvin", "342.675.324-76");
         System.out.println(desemp2.dados());
 
         
